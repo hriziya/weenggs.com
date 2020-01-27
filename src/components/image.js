@@ -32,7 +32,7 @@ const Image = () => {
       # }
     }
   `)
-  console.log(data)
+  // console.log(data)
   return data
   // return <Img fluid={data.placeholderImage.childImageSharp.fluid} />
 }
