@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
-    title: `Weenggs Technology`,
-    description: `Kick off your next, great Gatsby project with this default starter. This barebones starter ships with the main Gatsby configuration files you might need.`,
+    title: `Weenggs Technology - MOBILE APPS AND WEBSITE DEVELOPERS`,
+    description: `Inspired by art and technology, we integrate designs and smart development to create some of the most user-centric websites and mobile applications. We are all about bringing your unique ideas to life and delivering success.`,
     author: `@gatsbyjs`,
   },
   plugins: [
