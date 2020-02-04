@@ -1,0 +1,7 @@
+export * from './Intro'
+export * from './Skills'
+export * from './Work'
+export * from './Services'
+export * from './Popular'
+export * from './RecentTalks'
+export * from './Testimonials'
