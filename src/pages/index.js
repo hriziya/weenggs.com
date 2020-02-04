@@ -4,7 +4,7 @@ import {
   Skills,
   Work,
   Services,
-  Github,
+  //Github,
   Popular,
   RecentTalks,
   Testimonials,
