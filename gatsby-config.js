@@ -6,13 +6,13 @@ require('dotenv').config({
 
 module.exports = {
   siteMetadata: {
-    siteUrl: 'https://smakosh.com',
+    siteUrl: 'https://weenggs.com',
     rssMetadata: {
-      site_url: 'https://smakosh.com',
+      site_url: 'https://weenggs.com',
       feed_url: `${config.url}${config.siteRss}`,
-      title: 'Smakosh | Blog',
+      title: 'Weenggs | Blog',
       description: config.defaultDescription,
-      image_url: 'https://smakosh.com/static/favicon/logo-512.png',
+      image_url: 'https://weenggs.com/static/favicon/logo-512.png',
       author: config.author,
       copyright: `${config.defaultTitle} © ${new Date().getFullYear()}`,
     },
@@ -80,7 +80,7 @@ module.exports = {
 							}
 						}`,
             output: config.siteRss,
-            title: 'Smakosh | Blog',
+            title: 'Weenggs | Blog',
           },
         ],
       },
